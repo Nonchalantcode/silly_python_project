@@ -1,2 +1,1 @@
-Hello world! 
-This is just a silly Python project that I'm using to teach myself stuff about Python 
+This is just a silly project to learn a little bit more about Python and about tdd in it.
